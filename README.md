@@ -14,7 +14,7 @@ This project aims to resolve water tank overflow problem and saves water and ene
 ### Need : 
 
 This one is news in Hindustan times regarding water crisis in New Delhi. Governement annonucing fine of Rs. 2000/- if water tank overflows.  
-![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/image1.jpg)
+![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/image1.png)
 
 
 
@@ -31,5 +31,5 @@ Currently these water controllers available in market but not in robust form and
 
 NeeR water overflow controller : Block diagram and working principle
 
-![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/image2.jpg)
-![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/image4.jpg)
+![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/image2.png)
+![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/image4.png)
