@@ -14,6 +14,7 @@ This project aims to resolve water tank overflow problem and saves water and ene
 ### Need : 
 
 This one is news in Hindustan times regarding water crisis in New Delhi. Governement annonucing fine of Rs. 2000/- if water tank overflows.  
+![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/image1.jpg)
 
 
 
@@ -24,6 +25,11 @@ energy supplied was also lost; in one of the two colonies of Delhi.
 https://pdfs.semanticscholar.org/463b/479d0e04d463be58b4d9a8d792cfcc444620.pdf
 
 This study also says that if any automatic cutoff controller is introduced then around 90 billion litres of treated water 
-and 90 billion kW-hr of energy can be saved in a month in India.  
+and 90 billion kW-hr of energy can be saved in a month in India. This clearly indicates potential and actual need of this project.
+Currently these water controllers available in market but not in robust form and in affrodable price.
 
-![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/BME3.png)
+
+NeeR water overflow controller : Block diagram and working principle
+
+![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/image2.jpg)
+![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/image3.jpg)
