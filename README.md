@@ -24,4 +24,4 @@ energy supplied was also lost; in one of the two colonies of Delhi.
 https://pdfs.semanticscholar.org/463b/479d0e04d463be58b4d9a8d792cfcc444620.pdf
 
 This study also says that if any automatic cutoff controller is introduced then around 90 billion litres of treated water 
-and 90 billion kW-hr of energy can be saved in a month in India.  
+and 90 billion kW-hr of energy can be saved in a month in India.  kjkj
