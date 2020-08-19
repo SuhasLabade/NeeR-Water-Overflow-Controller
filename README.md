@@ -32,4 +32,13 @@ Currently these water controllers available in market but not in robust form and
 NeeR water overflow controller : Block diagram and working principle
 
 ![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/image2.png)
+
+
+
+
+
+
+
+
+
 ![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/image4.png)
