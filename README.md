@@ -29,7 +29,8 @@ and 90 billion kW-hr of energy can be saved in a month in India. This clearly in
 Currently these water controllers available in market but not in robust form and in affrodable price.
 
 
-##Block diagram and working principle :
+### Block diagram and working principle :
+
 As shown in below  block diagram two float sensors are placed inside tank 2 at different positions, float 1 is at upper level [where we need 
 to restrict waterlevel ] and float 2 placed at bottom level [ where we need to start motor to fill tank again] , Both these are float mechanical 
 type switches that turns ON when it drops down [ Here customization of float sensor is done,floating weight of 
