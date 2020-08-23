@@ -37,7 +37,10 @@ type switches that turns ON when it drops down [ Here customization of float sen
 all these sensors are placed in reverse direction so that it turns ON when it drops down , initially it was turns ON when it floats up ] 
 
 Float sensor 3 is placed in another tank where motor is placed. This float 3 sensor mainly measures Tank 1 water
-level and keeps motor OFF if water level is below the float 3 sensor. This device works in following iterations:
+level and keeps motor OFF if water level is below the float 3 sensor. 
+![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/image2.png)
+
+This device works in following iterations: </br>
 
 Float 1: ON   Float 2 : ON    Float 3 : OFF        Motor ON 
 Float 1: ON   Float 2 : OFF   Float 3 : OFF/ ON    Motor OFF 
@@ -49,10 +52,6 @@ This device also has Manual and Auto mode that operates through given toggle swi
 This device designed upto 2HP motor capacity and requires 230VAC supply for motor and 12V/1AMP DC supply for device. 
 
  
-
-
-
-![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/image2.png)
 
 
 
