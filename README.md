@@ -42,13 +42,13 @@ level and keeps motor OFF if water level is below the float 3 sensor.
 
 This device works in following iterations: </br>
 
-Float 1: ON  &nbsp;&nbsp;  Float 2: ON  &nbsp;&nbsp;  Float 3: OFF    &nbsp; &nbsp;&nbsp;      Motor ON </br>
+Float 1: ON  &nbsp;&nbsp;  Float 2: ON  &nbsp;&nbsp;  Float 3: OFF    &nbsp; &nbsp;&nbsp;&nbsp;      Motor ON </br>
 
 Float 1: ON  &nbsp;&nbsp;  Float 2: OFF &nbsp;&nbsp;  Float 3: OFF/ON  &nbsp;&nbsp;  Motor OFF </br>
 
 Float 1: OFF &nbsp;&nbsp;  Float 2: OFF &nbsp;&nbsp;  Float 3: OFF/ON  &nbsp;&nbsp;   Motor OFF </br>
 
-Float 1: ON  &nbsp;&nbsp;  Float 2: ON  &nbsp;&nbsp;  Float 3: ON      &nbsp;&nbsp;&nbsp;       Motor OFF </br>
+Float 1: ON  &nbsp;&nbsp;  Float 2: ON  &nbsp;&nbsp;  Float 3: ON      &nbsp;&nbsp;&nbsp;&nbsp;       Motor OFF </br>
 
 
 
