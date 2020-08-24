@@ -14,7 +14,7 @@ This project aims to resolve water tank overflow problem and saves water and ene
 ### Need : 
 
 This one is news in Hindustan times regarding water crisis in New Delhi. Governement annonucing fine of Rs. 2000/- if water tank overflows.  </br></br>
-![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/image1.png)</br></br>
+![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/image1.png)   </br></br>
 
 
 
@@ -38,7 +38,7 @@ all these sensors are placed in reverse direction so that it turns ON when it dr
 
 Float sensor 3 is placed in another tank where motor is placed. This float 3 sensor mainly measures Tank 1 water
 level and keeps motor OFF if water level is below the float 3 sensor. </br> </br></br>
-![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/image2.png)
+![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/image2.png) </br></br>
 
 This device works in following iterations: </br>
 
