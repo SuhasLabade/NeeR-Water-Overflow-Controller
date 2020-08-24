@@ -55,10 +55,9 @@ Float 1: ON  &nbsp;&nbsp;  Float 2: ON  &nbsp;&nbsp;  Float 3: ON      &nbsp;&nb
 This device also has Manual and Auto mode that operates through given toggle switch . 
 This device designed upto 2HP motor capacity and requires 230VAC supply for motor and 12V/1AMP DC supply for device. </br></br>
 
- 
+###Bill of material  and specifications : 
 
-
-
+Detailed list of material and specifications given below : 
 
 
 
