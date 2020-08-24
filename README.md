@@ -13,8 +13,8 @@ This project aims to resolve water tank overflow problem and saves water and ene
 
 ### Need : 
 
-This one is news in Hindustan times regarding water crisis in New Delhi. Governement annonucing fine of Rs. 2000/- if water tank overflows.  
-![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/image1.png)
+This one is news in Hindustan times regarding water crisis in New Delhi. Governement annonucing fine of Rs. 2000/- if water tank overflows.  </br></br>
+![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/image1.png)</br></br>
 
 
 
@@ -26,7 +26,7 @@ https://pdfs.semanticscholar.org/463b/479d0e04d463be58b4d9a8d792cfcc444620.pdf
 
 This study also says that if any automatic cutoff controller is introduced then around 90 billion litres of treated water 
 and 90 billion kW-hr of energy can be saved in a month in India. This clearly indicates potential and actual need of this project.
-Currently these water controllers available in market but not in robust form and in affrodable price.
+Currently these water controllers available in market but not in robust form and in affrodable price.</br>
 
 
 ### Block diagram and working principle :
@@ -37,7 +37,7 @@ type switches that turns ON when it drops down [ Here customization of float sen
 all these sensors are placed in reverse direction so that it turns ON when it drops down , initially it was turns ON when it floats up ] 
 
 Float sensor 3 is placed in another tank where motor is placed. This float 3 sensor mainly measures Tank 1 water
-level and keeps motor OFF if water level is below the float 3 sensor. 
+level and keeps motor OFF if water level is below the float 3 sensor. </br> </br></br>
 ![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/image2.png)
 
 This device works in following iterations: </br>
@@ -53,7 +53,7 @@ Float 1: ON  &nbsp;&nbsp;  Float 2: ON  &nbsp;&nbsp;  Float 3: ON      &nbsp;&nb
 
 
 This device also has Manual and Auto mode that operates through given toggle switch . 
-This device designed upto 2HP motor capacity and requires 230VAC supply for motor and 12V/1AMP DC supply for device. 
+This device designed upto 2HP motor capacity and requires 230VAC supply for motor and 12V/1AMP DC supply for device. </br></br>
 
  
 
