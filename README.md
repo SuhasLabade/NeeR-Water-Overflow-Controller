@@ -76,6 +76,9 @@ Upper Tank is with xxx liter capacity has single phase 1HP motor placed near bot
 
 
 
+Temperature sensors comparision            |  Comparision graph
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/BME4.png)  |  ![](https://github.com/SuhasLabade/my-projects-/blob/master/Images/BME5.png)
 
 
 
