@@ -78,9 +78,9 @@ Upper Tank is with xxx liter capacity has single phase 1HP motor placed near bot
 
 Temperature sensors comparision            |  Comparision graph
 :---------------------------:|:-------------------------:
-![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/Image6.png)  |  ![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/Image7.png)
+![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/Image6.jpeg)  |  ![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/Image7.jpeg)
 
 
-
+![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/Image8.jpeg)  |  ![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/Image9.jpeg)
 
 
