@@ -61,7 +61,8 @@ Detailed list of material with specifications given on below:
 ![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/Image5(2).png)
 
 
-Download bill of material file with reference links from here 
+Download bill of material file with reference links from here </br>
+https://docs.google.com/spreadsheets/d/13rO-oMJP7bWZHOKyQtBdvwKUu3_JfMuWWXt_1c5kYLk/edit?usp=sharing
 
 
 ### Connection diagram : 
