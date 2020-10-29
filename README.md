@@ -58,6 +58,10 @@ This device designed upto 2HP motor capacity and requires 230VAC supply for moto
 ### Bill of material  and specifications : 
 
 Detailed list of material with specifications given on below link:
+![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/Image5(2).png)
+
+
+
 
 
 ![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/image4.png)
@@ -76,7 +80,7 @@ Upper Tank is with xxx liter capacity has single phase 1HP motor placed near bot
 
 
 
-Temperature sensors comparision            |  Comparision graph
+Assembly            |  Installations 
 :---------------------------:|:-------------------------:
 ![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/Image6.jpeg)  |  ![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/Image7.jpeg)
 
