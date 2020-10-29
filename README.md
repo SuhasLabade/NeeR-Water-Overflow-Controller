@@ -87,3 +87,8 @@ Assembly            |  Installations
 ![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/Image8.jpeg)  |  ![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/Image9.jpeg)
 
 
+### References:
+The water project : https://thewaterproject.org/
+https://pdfs.semanticscholar.org/463b/479d0e04d463be58b4d9a8d792cfcc444620.pdf
+
+
