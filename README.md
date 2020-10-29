@@ -60,9 +60,25 @@ This device designed upto 2HP motor capacity and requires 230VAC supply for moto
 Detailed list of material with specifications given on below link:
 
 
-
-
-
-
-
 ![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/image4.png)
+
+
+
+
+
+
+
+
+NeeR installation :
+
+First Intallation on Vigyan ashrams Kitchen Tank : 
+Upper Tank is with xxx liter capacity has single phase 1HP motor placed near bottom tank. Installed first device for one month testing August 3rd. 
+
+
+
+
+
+
+
+
+
