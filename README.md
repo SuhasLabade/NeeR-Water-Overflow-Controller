@@ -90,6 +90,10 @@ Assembly            |  Installations
 ### References:
 The water project : https://thewaterproject.org/ </br>
 
+ A journal on 'A Study on Deficiencies Causing Water and Energy
+Losses in the Roof Top Water Storage Tank
+Installations in India'
+
 https://pdfs.semanticscholar.org/463b/479d0e04d463be58b4d9a8d792cfcc444620.pdf
 
 
