@@ -80,14 +80,14 @@ Upper Tank is with xxx liter capacity has single phase 1HP motor placed near bot
 
 
 
-Assembly            |  Installations 
+Assembly            |  Kitchen Tank
 :---------------------------:|:-------------------------:
 ![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/Image6.jpeg)  |  ![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/Image7.jpeg)
 
+Toilet Tank          |  Water filter Tank 
+:---------------------------:|:-------------------------:
+![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/Image9.jpeg)  |  ![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/Image10.jpeg)
 
-![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/Image8.jpeg)  |  ![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/Image9.jpeg)
-
-![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/Image10.jpeg)
 ### References:
 The water project : https://thewaterproject.org/ </br>
 
