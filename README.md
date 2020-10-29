@@ -53,27 +53,26 @@ Float 1: ON  &nbsp;&nbsp;  Float 2: ON  &nbsp;&nbsp;  Float 3: ON      &nbsp;&nb
 
 
 This device also has Manual and Auto mode that operates through given toggle switch . 
-This device designed upto 2HP motor capacity and requires 230VAC supply for motor and 12V/1AMP DC supply for device. </br></br>
+This device designed upto 2HP motor capacity and requires 230VAC supply for motor and 12V/1AMP DC supply for device operation. </br></br>
 
 ### Bill of material  and specifications : 
 
-Detailed list of material with specifications given on below link:
+Detailed list of material with specifications given on below:
 ![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/Image5(2).png)
 
 
+Download bill of material file with reference links from here 
 
 
+### Connection diagram : 
+
+All components are connected as per below diagram. Here relay pin numbers are indicators to connect other components . Refer above block diagram and connection diagram to  simultenously to understand connection correctly.   
 
 ![](https://github.com/SuhasLabade/NeeR-Water-Overflow-Controller/blob/master/Neer/image4.png)
 
 
 
-
-
-
-
-
-NeeR installation :
+### NeeR Assembly and installation :
 
 First Intallation on Vigyan ashrams Kitchen Tank : 
 Upper Tank is with xxx liter capacity has single phase 1HP motor placed near bottom tank. Installed first device for one month testing August 3rd. 
